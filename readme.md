@@ -3,7 +3,7 @@
 <p align="center">
   
    </a>
-    <img src="https://img.shields.io/github/languages/top/BrianMarquez3/NetCore-Framework?color=yellow">
+    <img src="https://img.shields.io/github/languages/top/BrianMarquez3/NetCore-Framework?color=blue">
   </a>
   <a href="https://github.com/BrianMarquez3/NetCore-Framework/stargazers">
     <img src="https://img.shields.io/github/stars/BrianMarquez3/NetCore-Framework.svg?style=flat" alt="Stars">
@@ -11,7 +11,7 @@
   <a href="https://github.com/BrianMarquez3/NetCore-Framework/network">
     <img src="https://img.shields.io/github/forks/BrianMarquez3/NetCore-Framework.svg?style=flat" alt="Forks">
   </a>
-    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/NetCore-Framework?color=red&label=Version&logo=python">
+    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/NetCore-Framework?color=red&label=Version&logo=.net">
   </a>
   
   </a>
